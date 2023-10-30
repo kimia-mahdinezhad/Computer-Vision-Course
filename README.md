@@ -1,4 +1,4 @@
-﻿# Fundamentals of Computer Vision Course Repository
+﻿# Fundamentals of Computer Vision Course
 
 This GitHub repository has been created as a dedicated platform for the "Fundamentals of Computer Vision" course, which was successfully completed as part of my university program. The repository encompasses comprehensive information and resources pertaining to the course, including documentation, assignments, and relevant codes. The following is an overview of the course topics covered:
 
